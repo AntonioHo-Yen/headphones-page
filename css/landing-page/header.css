@@ -1,0 +1,67 @@
+header{
+    padding: 30px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 50px; 
+}
+header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+header a{
+    color: #6066f2;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+}
+header .logo{
+    float: left;
+}
+header .logo img{
+    width: 100px;
+    cursor: pointer;
+}
+header .menu{
+    float: left;
+    margin-top: 13px;
+    font-size: .7rem;
+}
+header .menu a{
+    text-transform: uppercase;
+}
+header .header-buttons{
+    float: right;
+    margin-top: 13px;
+    font-size: .7rem;
+}
+header .header-buttons .blue-btn{
+    background: #6066f2;
+    padding: 14px 46px;
+    color: white;
+    border-radius: 35px;
+    text-transform: uppercase;
+}
+header .header-buttons .blue-btn .fa-bag-shopping{
+    margin-left: 5px;
+}
+
+header .header-buttons .orange-btn{
+    background: #FEA83B;
+    padding: 14px 46px;
+    color: white;
+    border-radius: 35px;
+    text-transform: uppercase;
+}
+
+/*LAPTOPS DEVICES*/
+@media only screen and (max-width: 1215px){
+   
+}
+/*TABLET DEVICES*/
+@media only screen and (max-width: 1023px){
+}    
+/*MOBILE DEVICES*/
+@media only screen and (max-width: 767px){
+    
+}
