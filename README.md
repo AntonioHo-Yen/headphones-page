@@ -24,11 +24,6 @@ Clone the repository:
    
    git clone git@github.com:AntonioHo-Yen/headphones-landing.git
 
-   or
-   view on netlify
-
-   https://ah-headphones-page.netlify.app
-
    
 Legal Notice
 
